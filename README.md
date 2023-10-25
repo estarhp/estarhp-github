@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=estarhp&rank_icon=github&show-icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=estarhp&rank_icon=github&show-icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estarhp&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estarhp&layout=compact&langs_count=8&card_width=500" />
 </a>
 
 [![estarhp](https://github-profile-trophy.vercel.app/?username=estarhp&row=1)](https://github.com/ryo-ma/github-profile-trophy)
