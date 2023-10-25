@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=estarhp&rank_icon=github&show-icons=true&card_width=420&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=estarhp&rank_icon=github&show-icons=true&card_width=400&theme=transparent" />
 </a>
 <a href="#t">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estarhp&layout=compact&langs_count=8&card_width=420&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estarhp&layout=compact&langs_count=8&card_width=400&theme=transparent" />
 </a>
 
 [![estarhp](https://github-profile-trophy.vercel.app/?username=estarhp&row=1&no-frame=true&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
