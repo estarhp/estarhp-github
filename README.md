@@ -13,11 +13,3 @@
 
 I'm a student at Chongqing University of Posts and Telecommunications (CQUPT), and I primarily work on frontend development. I'm proficient in both Vue and React. Currently, I'm expanding my skills by learning Rust.
 
-Here are some more details to get you started:
-
-- 🌱 I’m currently learning Rust.
-- 🤔 I’m looking for help with mastering Rust or any challenging coding problems.
-- 💬 Ask me about Vue, React, or anything related to web development.
-- 📫 You can reach me at [tanghuayanglex@gmail.com].
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy playing badminton in my free time.
